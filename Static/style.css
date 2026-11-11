@@ -1,0 +1,66 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #dcdce6;
+}
+
+/* Header */
+h1 {
+    background-color: #5a2ea6;
+    color: white;
+    text-align: center;
+    padding: 15px;
+    margin: 0;
+}
+
+/* Container */
+.container {
+    text-align: center;
+    margin-top: 30px;
+}
+
+/* Subtitle */
+h2 {
+    color: #5a2ea6;
+}
+
+/* Description */
+p {
+    color: #333;
+}
+
+/* Label */
+label {
+    display: block;
+    margin-top: 20px;
+    font-weight: bold;
+}
+
+/* Textarea */
+textarea {
+    width: 40%;
+    height: 120px;
+    margin-top: 10px;
+    border: 2px solid #5a2ea6;
+    border-radius: 8px;
+    padding: 10px;
+}
+
+/* Button BELOW textarea */
+button {
+    display: block;
+    margin: 15px auto;
+    padding: 10px 20px;
+    background-color: #e74c3c;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+/* Result */
+.result {
+    margin-top: 20px;
+    font-weight: bold;
+    color: #5a2ea6;
+}
